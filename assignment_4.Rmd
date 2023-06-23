@@ -4,7 +4,7 @@ title: |
   | Introduction to Applied Data Science
   | 2022-2023
 author: |
-  | Your Name
+  | Mykola Chuprynskyy
   | m.chuprynskyy@students.uu.nl
   | http://www.github.com/Floksy10
 date: April 2023
@@ -62,7 +62,7 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max),data=GrowthSW)
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
-#Sanya huy sosi
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
